@@ -324,6 +324,27 @@ const MEMBERS = [
 
 const EVENTS = [
   {
+    title: "Bug Free",
+    imgsrc: Bug_Free,
+    description:
+      'Challenge your innovation and engineering skills in a heart-pounding competition that will push you to the limit.',
+    keyword: "ieee",
+  },
+  {
+    title: "World Startupday Event",
+    imgsrc: IICxIEEE,
+    description:
+      'Join us for the Startup Investors Forum: Bridging Startups and Investors! 🚀🤝 At Fr. Conceicao Rodrigues College Of Engineering.',
+    keyword: "ieee",
+  },
+  {
+    title: "Ingenium: Group Discussion",
+    imgsrc: ingenium3,
+    description:
+      'INGENIUM: Igniting Innovation on Engineers Day!.An exhilarating Engineers Day Group Discussion Challenge to enhance critical thinking, communication, knowledge, teamwork, and confidence',
+    keyword: "ieee,wie",
+  },
+  {
     title: "Prakalp 2k24",
     imgsrc: prakalp2,
     description:
